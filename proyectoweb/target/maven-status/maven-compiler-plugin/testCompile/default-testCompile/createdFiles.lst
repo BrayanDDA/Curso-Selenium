@@ -1,0 +1,9 @@
+support\runtest.class
+definitions\hooks.class
+pageobjects\menuPage.class
+pageobjects\pagoPage.class
+support\util.class
+definitions\carritoDefinition.class
+pageobjects\carritoPage.class
+pageobjects\confirmacionPage.class
+pageobjects\tarjetaPage.class
